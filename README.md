@@ -1,6 +1,16 @@
-# basic_python_codes
-This is a Demo for git &amp; Github class.
+# Printing Numbers from 1 to n 🤔
 
-# Student
- Devendra Kumar 
- BCA 2nd Year
+A simple Python program that prints out the numbers from 1 to n using a for loop. 🚀
+
+# Usage
+1. Run the program.
+2. Enter a number n when prompted.
+3. The program will print out the numbers from 1 to n.
+
+# Example
+
+Enter n: 10
+1 2 3 4 5 6 7 8 9 10 
+
+
+👍 Enjoy! 
