@@ -9,7 +9,7 @@ A simple Python program that prints out the numbers from 1 to n using a for loop
 
 # Example
 
-Enter n: 10
+Enter n: 10 :
 1 2 3 4 5 6 7 8 9 10 
 
 
