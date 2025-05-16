@@ -2,8 +2,8 @@ import sys
 print('Name '*3)
 # print name 3 times...
 
-def mul(n,times=0):
-  return n*times
+def mul(name,times=1):
+  return name*times
 
 print(mul('Dev ',5))
 
